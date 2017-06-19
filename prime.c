@@ -4,6 +4,8 @@ int main()
 {
 int n,i;
 clrscr();
+printf("Enter any number");
+scanf("%d",&n);  
 for(i=2;i<=n-1; i++)
 {
 if(n%i==0)

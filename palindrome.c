@@ -18,3 +18,4 @@ int main()
       printf("%d is not a palindrome number.\n", n);
   getch();
    return 0;
+}

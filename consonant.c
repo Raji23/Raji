@@ -17,7 +17,7 @@ case 'o':
 case 'O':
 case 'u':
 case 'U':
-printf("%C is a vowel\n",ch);
+printf("%c is a vowel\n",ch);
 break;
 printf("%c is not a vowel\n",ch);
 }

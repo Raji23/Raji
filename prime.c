@@ -12,6 +12,7 @@ if(n%i==0)
 {
 break;
 }
+}
 if(n==i)
 {
 printf("\n Prime number");
